@@ -90,13 +90,12 @@ Future improvements include:
 
 ---
 
-## 📎 License
+## 📄 License
 
-This project is provided for educational purposes under the MIT License.
+This project is open source under the [MIT License](LICENSE).
 
 ---
 
-## 🙋‍♂️ Author
+## ✉️ Credits
 
-Richard Gergely  
-[LinkedIn](https://www.linkedin.com/in/richgerg) | [Portfolio](https://phishy.cloud)
+Created by RichGerg - built a personal cybersecurity &amp; cloud portfolio website using GitHub and AWS Amplify, and implement a basic DoS alerting system to monitor for abnormal traffic patterns.
